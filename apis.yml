@@ -1,0 +1,75 @@
+aid: kairos-power
+name: Kairos Power
+description: >-
+  Kairos Power is an Alameda, California-based advanced nuclear fission
+  company developing the KP-FHR (Kairos Power Fluoride salt-cooled
+  High-temperature Reactor), a Generation IV reactor design that uses
+  TRISO (tri-structural isotropic) fuel pebbles cooled by molten
+  fluoride salt (FLiBe) at low pressure and high temperature. Kairos
+  Power is building Hermes, a low-power demonstration reactor at the
+  East Tennessee Technology Park in Oak Ridge, Tennessee, which became
+  the first non-light-water reactor authorized for construction by the
+  U.S. Nuclear Regulatory Commission in over 50 years (construction
+  permit issued December 2023). A second unit, Hermes 2, will pair two
+  reactors with a 28 MWe electricity-generating turbine. In October
+  2024 Google signed a corporate power purchase agreement with Kairos
+  Power for up to 500 MW of nuclear electricity from multiple small
+  modular reactors, with the first deployment targeted by 2030 and
+  additional capacity through 2035 — the first corporate PPA for new
+  advanced nuclear in the United States. The company's revenue model
+  is reactor sales, electricity PPAs, and federal cost-share
+  partnerships (DOE Advanced Reactor Demonstration Program). Kairos
+  Power is privately held, does not expose a public developer API or
+  SDK, and operates under NRC regulatory oversight as a
+  safety-critical nuclear licensee.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Nuclear
+  - Advanced Nuclear
+  - Nuclear Fission
+  - Small Modular Reactor
+  - Generation IV
+  - KP-FHR
+  - Fluoride Salt
+  - TRISO Fuel
+  - Hermes Reactor
+  - Energy
+  - Clean Energy
+  - Power Generation
+  - Hyperscaler Power
+url: https://raw.githubusercontent.com/api-evangelist/kairos-power/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://kairospower.com
+  - type: Technology
+    url: https://kairospower.com/technology/
+  - type: Hermes
+    url: https://kairospower.com/hermes/
+  - type: Company
+    url: https://kairospower.com/about/
+  - type: Team
+    url: https://kairospower.com/team/
+  - type: News
+    url: https://kairospower.com/external_updates/
+  - type: Careers
+    url: https://kairospower.com/careers/
+  - type: Contact
+    url: https://kairospower.com/contact/
+  - type: GitHub
+    url: https://github.com/Kairos-Power
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kairos-power
+  - type: Twitter
+    url: https://twitter.com/KairosPower
+  - type: YouTube
+    url: https://www.youtube.com/@KairosPower
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
