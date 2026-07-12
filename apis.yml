@@ -46,6 +46,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/kairos-power-domain-security.yml
   - type: Website
     url: https://kairospower.com
   - type: Technology
