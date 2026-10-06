@@ -64,10 +64,12 @@ tags:
   - Hyperscaler Power
 url: https://raw.githubusercontent.com/api-evangelist/kairos-power/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.kairospower.com/updates
+    type: Blog
   - type: DomainSecurity
     url: security/kairos-power-domain-security.yml
   - type: Website
