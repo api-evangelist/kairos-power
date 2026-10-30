@@ -1,4 +1,4 @@
-# kairos-power
+# Kairos Power
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kairos Power — advanced nuclear fission, KP-FHR fluoride-salt-cooled high-temperature reactor (Hermes demo in Oak Ridge TN; Google 500 MW PPA by 2030)
+Kairos Power is an Alameda, California-based advanced nuclear fission company developing the KP-FHR (Kairos Power Fluoride salt-cooled High-temperature Reactor), a Generation IV reactor design that uses TRISO (tri-structural isotropic) fuel pebbles cooled by molten fluoride salt (FLiBe) at low pressure and high temperature. Kairos Power is building Hermes, a low-power demonstration reactor at the East Tennessee Technology Park in Oak Ridge, Tennessee, which became the first non-light-water reactor authorized for construction by the U.S. Nuclear Regulatory Commission in over 50 years (construction permit issued December 2023). A second unit, Hermes 2, will pair two reactors with a 28 MWe electricity-generating turbine. In October 2024 Google signed a corporate power purchase agreement with Kairos Power for up to 500 MW of nuclear electricity from multiple small modular reactors, with the first deployment targeted by 2030 and additional capacity through 2035 — the first corporate PPA for new advanced nuclear in the United States. The company's revenue model is reactor sales, electricity PPAs, and federal cost-share partnerships (DOE Advanced Reactor Demonstration Program). Kairos Power is privately held, does not expose a public developer API or SDK, and operates under NRC regulatory oversight as a safety-critical nuclear licensee.
+
+**Areas:** Nuclear · Advanced Nuclear · Nuclear Fission · Small Modular Reactor · Generation IV · KP-FHR · Fluoride Salt · TRISO Fuel · Hermes Reactor · Energy · Clean Energy · Power Generation
+
+## Kairos Power on APIs.io
+
+Everything profiled for Kairos Power is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kairos-power/](https://apis.io/providers/kairos-power/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kairos Power Domain Security](https://apis.io/security/kairos-power/kairos-power-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kairospower.com)
+- [Blog](https://www.kairospower.com/updates)
+
+## API Evangelist rating
+
+**Kin Score 4.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kairos-power/](https://apis.io/providers/kairos-power/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kairos Power: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kairos-power/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
